@@ -1,0 +1,13 @@
+/Users/wombastisch/Desktop/WombastischeRatings/bin/Debug/net8.0/WombastischeRatings.deps.json
+/Users/wombastisch/Desktop/WombastischeRatings/bin/Debug/net8.0/WombastischeRatings.dll
+/Users/wombastisch/Desktop/WombastischeRatings/bin/Debug/net8.0/WombastischeRatings.pdb
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.csproj.AssemblyReference.cache
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.AssemblyInfoInputs.cache
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.AssemblyInfo.cs
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.csproj.CoreCompileInputs.cache
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.sourcelink.json
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.dll
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/refint/WombastischeRatings.dll
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/WombastischeRatings.pdb
+/Users/wombastisch/Desktop/WombastischeRatings/obj/Debug/net8.0/ref/WombastischeRatings.dll
