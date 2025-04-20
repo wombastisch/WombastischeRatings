@@ -11,9 +11,7 @@ A lightweight ELO-based rating system for CS2 servers using [CounterStrikeSharp]
 - [x] Clean in-game feedback after rounds
 - [ ] In-game menu for ELO stats and leaderboard
 - [ ] Optional database integration (MySQL/SQLite)
-- [ ] Configurable rating mode:
-      - round based (done)
-      - full match-based (wip)
+- [ ] Configurable rating mode: round based (done), full match-based (wip)
 - [ ] Simple Web interface for player ratings
 
 ## 🛠 Commands
